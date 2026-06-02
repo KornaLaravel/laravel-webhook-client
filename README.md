@@ -9,7 +9,7 @@
 <h1>Receive webhooks in Laravel apps</h1>
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-webhook-client.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-webhook-client)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/spatie/laravel-webhook-client/run-tests.yml?branch=main?label=tests)
+![GitHub Workflow Status](https://github.com/spatie/laravel-webhook-client/actions/workflows/run-tests.yml/badge.svg)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/laravel-webhook-client.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-webhook-client)
     
 </div>
