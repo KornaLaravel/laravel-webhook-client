@@ -2,6 +2,19 @@
 
 All notable changes to `laravel-webhook-client` will be documented in this file
 
+## 3.6.3 - 2026-06-04
+
+### What's Changed
+
+* Update README.md by @LUCASFRANKINC in https://github.com/spatie/laravel-webhook-client/pull/252
+* Respect the configured webhook_model table when storing webhooks by @freekmurze in https://github.com/spatie/laravel-webhook-client/pull/256
+
+### New Contributors
+
+* @LUCASFRANKINC made their first contribution in https://github.com/spatie/laravel-webhook-client/pull/252
+
+**Full Changelog**: https://github.com/spatie/laravel-webhook-client/compare/3.6.2...3.6.3
+
 ## 3.6.2 - 2026-04-30
 
 ### What's Changed
