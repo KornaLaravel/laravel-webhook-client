@@ -2,6 +2,19 @@
 
 All notable changes to `laravel-webhook-client` will be documented in this file
 
+## 3.7.0 - 2026-07-28
+
+### What's Changed
+
+* Bump actions/checkout from 6 to 7 by @dependabot[bot] in https://github.com/spatie/laravel-webhook-client/pull/257
+* [FEAT] Update webhooks macro to accept multiple methods and QUERY method support by @devhammed in https://github.com/spatie/laravel-webhook-client/pull/258
+
+### New Contributors
+
+* @devhammed made their first contribution in https://github.com/spatie/laravel-webhook-client/pull/258
+
+**Full Changelog**: https://github.com/spatie/laravel-webhook-client/compare/3.6.3...3.7.0
+
 ## 3.6.3 - 2026-06-04
 
 ### What's Changed
